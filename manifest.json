@@ -1,0 +1,16 @@
+{
+  "name": "Test Widget",
+  "id": "1233860062814767150",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "permissions": [
+    "activeusers"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
